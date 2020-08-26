@@ -15,7 +15,7 @@
 // includes
 #include <wx/event.h>
 
-#include <codeblocks/editormanager.h>
+#include <editormanager.h>
 
 #include "cbvike.h"
 #include "vifunc.h"

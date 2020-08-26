@@ -4,7 +4,7 @@
 #include "debugging.h"
 #include "cbstyledtextctrl.h"
 #include "vicmd.h"
-#include <codeblocks/cbeditor.h>
+#include <cbeditor.h>
 #include <wx/menu.h>
 
 #define BIND_NONE   0

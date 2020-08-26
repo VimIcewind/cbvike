@@ -8,8 +8,8 @@
 #include "debugging.h"
 #include "cbvike.h"
 #include "vifunc.h"
-#include <codeblocks/editormanager.h>
-#include <codeblocks/configmanager.h>
+#include <editormanager.h>
+#include <configmanager.h>
 #include <wx/sizer.h>
 
 const int idVikeViewStatusBar = wxNewId();
